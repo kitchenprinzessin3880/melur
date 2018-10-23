@@ -1,0 +1,464 @@
+Å,Ao
+µtorr,u[Torr]
+µg-at,n{molecule}
+µ,u
+±,{StandardDeviation}
+°C,Cel
+°,deg
+yr,a
+years,a
+year,a
+yd^2,[syd_i]
+yd3/min,[cyd_i]/min
+yd3,[cyd_i]
+yd2,[syd_i]
+yd,[yd_i]
+y,a
+x10^8,10*8
+x10^6/spec,10*6/{Specimen}
+x10^6,10*6
+x10^5,10*5
+x10^3 RBCs,10*3.{RBC}
+x10^3,10*3
+weeks,wk
+week,wk
+vol,{v}
+utorr,m[Torr]
+umol/mol Cre,umol/mol{Cre}
+umol/mg Cre,umol/mg{Cre}
+umol/g Hgb,umol/g{Hgb}
+umol/g Cre,umol/g{Cre}
+uiu,u[iU]
+ug/mg Cre,ug/mg{Cre}
+ug/m^2,ug/m2
+ug/hr,ug/h
+ug/g Hgb,ug/g{Hgb}
+ug/g Dry Weight,ug/g{DryWeight}
+ug/g Cre,ug/g{Cre}
+ug/dL RBCs,ug/dL{rbc}
+ug/Total Volume,ug/{TotalVolume}
+ug/Spec,ug/{Specimen}
+ug/100 g,ug/(100.g)
+ug/(kg.hr),ug/(kg.h)
+ug/(8.hr.kg),ug/(8.h.kg)
+ueg/L,ueq/L
+uIU/mL,u[iU]/mL
+uIU,u[iU]
+tsp,[tsp_us]
+tr oz,[oz_tr]
+torr,[Torr]
+ton/yd3,t/[cyd_i]
+ton/yd,t/[yd_i]
+ton/hr,[ston_av]/h
+ton,t
+time,a
+tenths,10*-1
+tbsp,[tbs_us]
+tablet,{tablet}
+sie,S
+seconds,s
+second,s
+sec,s
+sec,''
+ru,[arb'U]
+rmcd,m{rmcd}
+rem,REM
+rd,[rd_us]
+quanta,{quanta}
+qt,[qt_us]
+pt,[pt_us]
+psi,[psi]
+protein,{protein}
+pptv,[pptr]{v}
+ppt,[pptr]
+ppmv,[ppm]{v}
+ppm,[ppm]
+ppbv,[ppb]{v}
+polyp,{polyp}
+pk,[pk_us]
+pixel,n{pixel}
+pi,[pt_br]
+photons,{photons}
+phi,[phi]
+pal,Pa
+pa,pA
+pMC,[pMC]
+pH,[pH]
+ozm,[oz_av]
+oz,[oz_av]
+osmol/kg,osm/kg
+osmol/L,osm/L
+osmol,osm
+ohm,Ohm 
+oersted,Oe
+octa,[octa]
+nmol/mmol Cre,nmol/mmol{Cre}
+nmol/g Cre,nmol/g{Cre}
+nmi/min,[nmi_i]/min
+nmi/hr,[nmi_i]/h
+ng/mg Prot,ng/mg{Protein}
+ng/m^2,ng/m2
+ng/mL RBCs,ng/mL{rbc}
+ng/hr,ng/h
+ng/g Cre,ng/g{Cre}
+ng/(kg.hr),ng/(kg.h)
+ng/(8.hr.kg),ng/(8.h.kg)
+ng/(8.hr),ng/(8.h)
+n-alkanes,{n-alkanes}
+n mile,[nmi_i]
+months,mo
+month,mo
+molec,n{molecule}
+mol/m^3,mol/m3
+mmol/mol Cre,mmol/mol{Cre}
+mmol/m^2,mmol/m2
+mmol/hr,mmol/h
+mmol/Total Volume,mmol/{TotalVolume}
+mmol/(kg.hr),mmol/(kg.h)
+mmol/(8hr),mmol/(8.h)
+mmol/(8.hr.kg),mmol/(8.h.kg)
+mm^2,mm2
+mmHg,mm[Hg]
+mm/hr,mm/h
+mm(hg),mm[Hg]
+mm Hg,mm[Hg]
+miu/mL,m[iU]/mL
+milliH,mH
+mil,[mi_us]
+microsec,us
+microH,uH
+microF, uF
+mi/min,[mi_i]/min
+mi,[mi_i]
+mg/mg Cre,mg/mg{Cre}
+mg/m^3,mg/m3
+mg/m^2,mg/m2
+mg/hr,mg/h
+mg/g Cre,mg/g{Cre}
+mg/Volume,mg/{Volume}
+mg/Total Volume,mg/{TotalVolume}
+mg/(kg.hr),mg/(kg.h)
+mg/(8.hr.kg),mg/(8.h.kg)
+mg/(8.hr),mg/(8.h)
+mg Phe/dL,mg{Phenylketones}/dL
+mg CO2,mg{CO2}
+mg,/mg
+meq/hr,meq/h
+meq/g Cre,meq/g{Cre}
+meq/Spec,meq/{Specimen}
+meq/(kg.hr),meq/(kg.h)
+meq/(8.hr.kg),meq/(8.h.kg)
+meq/(8.hr),meq/(8.h)
+meg/m^2,meq/m2
+meg/dL,meq/dL
+meg/L,meq/L
+mbps,Mbit/s
+mas,Ms
+m^2,m2
+mU/mg Cre,mU/mg{Cre}
+mU/g Hgb,mU/g{Hgb}
+mOsm/kg,mosm/kg
+mOsm/L,mosm/L
+mL/hr,mL/h
+mL/heart beat,mL/{h`b}
+mL/cm_h20,mL/cm[H2O]
+mL/(kg.hr),mL/(kg.h)
+mL/(hb),mL/{hb}
+mL/(8.hr.kg),mL/(8.h.kg)
+mL/(8.hr),mL/(8.h)
+mL/((hb).m2),mL/{hb}.m2
+mIU/mL,m[iU]/mL
+mIU/L,m[iU]/L
+mEq/L,meq/L
+m/s,ms/s
+ly, [ly]
+lux,lx
+lbm/m3,[lb_av]/m3
+lbm,[lb_av]
+lbf,[lbf_av]
+lb/min,[lb_av]/min
+lb,[lb_av]
+kh/h,kg/h
+kg/ms,kg/m2
+kg/m^3,kg/m3
+kg/m^2,kg/m2
+kg(body_wt),kg{body_wt}
+kcal/gm,kcal/g
+kcal/(gm.degC),kcal/(g.Cel)
+kbps,kbit/s 
+kIU/mL,k[iU]/mL
+kCal/oz,kcal/[oz_av]
+k/watt,K/W
+iu/min,[iU]/min
+iu/mL,[iU]/mL
+iu/kg,[iU]/kg
+iu/hr,[iU]/h
+iu/d,[iU]/d
+iu/L,[iU]/L
+iu,[iU]
+ions,{ions}
+inch,[in_i]
+in_hg,[in_i'Hg]
+in^3,[cin_i]
+in^2,[sin_i]
+inHg,[in_i'Hg]
+inAq,[in_i'H2O]
+in3/min,[cin_i]/min
+in3,[cin_i]
+in2,[sin_i]
+in,[in_us]
+in,[in_i]
+hr,h
+hp/m,[HP]{metric}
+hp/V,[HP]{electric}
+hp/H2O,[HP]{water}
+hours,h
+hour,h
+grad,gon
+gr,[gr]
+gal/min,[gal_us]/min
+gal,[gal_us]
+gAPI,[API]
+g/m^2,g/m2
+g/hr,g/h
+g/g Cre,g/g{Cre}
+g/Total Weight,g/{TotalWeight}
+g/100g,g/(100.g)
+g/(kg.hr),g/(kg.h)
+g/(8.kg.hr),g/(8.kg.h)
+g/(8.hr),g/(8.h)
+g.m/(hb),g.m/{hb}
+g.m/((hb).m2),g.m/m2{hb}
+g(wet_tis),g{wet_tis}
+g(tot_prot),g{tot_prot}
+g(tot_nit),g{tit_nit}
+g(hgb),g{hgb}
+g(creat),g{creat}
+fur,[fur_us]
+ft^2,[sft_i]
+ft3,[cft_i]
+ft2,[sft_i]
+ft,[ft_i]
+fps,{frames}/s
+fmol/gm,fmol/g
+fl oz,[foz_us]
+fl dr,[fdr_us]
+field,{field}
+female,n{female}
+feet,[ft_i]
+fathom,[fth_i]
+fath,[fth_i]
+emu,[emu]
+electrons,{electron}
+electron,{electron}
+eg/L,eq/L
+dwt,[pwt_tr]
+dry_qt,[qt_us]{dry}
+dry_pt,[pt_us]{dry}
+dry_gal,[gal_us]{dry}
+dry weight %,%{drymass}
+dr,[dr_av]
+dpm,[dpm]
+dm2/s2,REM
+degR,[degR]
+degF,[degF]
+degC,Cel
+dba,dB[SPL]
+days,d
+day,d
+d2Theta,deg
+cup,[cup_us]
+cts,n{photon}
+crmcd,m{crmcd}
+cps,[cps]
+cpm,[cpm]
+counts/min,[cpm]
+count/min,[cpm]
+code,{code}
+cmil,[cml_i]
+cm_h20/(s.m),cm[H2O]/(s.m)
+cm_h20.s/L,cm[H2O].s/L
+cm_h20,cm[H2O]
+cm^2,cm2
+ch,[ch_us]
+cfu/mL,{cfu}/mL
+cells/uL,{Cells}/uL
+cc/dL,mL/dL
+bu,[bu_us]
+btu,[Btu]
+breaths/min,{breaths}/min
+bps,bit/s
+bpm,{beat}/min
+bp,[bp]
+bbl,[bbl_us]
+b2k,{b2k}
+atoms,n{atoms}
+atm,{atmosphere}
+armcd,m{armcd}
+arcSec,''
+arcMin,'
+arbitrary units,[arb'U]
+arbitrary light units,[arb'U]
+amcd,m{amcd}
+ambsf,m{ambsf}
+ac,[acr_us]
+Volume %,%{vol}
+U/g Hgb,U/g{Hgb}
+U/g Cre,U/g{Cre}
+Ton,[ston_av]
+Sperm/mL,{Spermatozoa}/mL
+Relative %,%{Relative}
+RBC/mm^3,{rbc}/uL
+Osm/kg,osm/kg
+Osm/L,osm/L
+Nm/ct,[car_m]
+Mo,mo
+Metric Ton,t
+MT,{MT}
+"M/uL, x10^6/mm^3",10*6/uL
+L/hr,L/h
+L/(8.hr),L/(8.h)
+L s^2/s,L.s2/s
+KPa,kPa
+KHz,kHz
+"K/uL, x10^3/mm^3",10*3/uL
+K/Watt,K/W
+IgM Phospholipid U/mL,U{IgMPhospholipid}/mL
+IgG Phospholipid U/mL,U{IgGPhospholipid}/mL
+IgA Phospholipid U/mL,U{IgAPhospholipid}/mL
+IU/mL,[iU]/mL
+IU/kg,[iU]/kg
+IU/g Hgb,[iU]/g{Hgb}
+IU/g,[iU]/g
+IU/dL,[iU]/dL
+IU/L,[iU]/L
+IU,[iU]
+HP,[HP]
+HC,{hydrocarbon}
+H2O,{H2O}
+Gram Meter/Heartbeat/m^2,g.m/({hb}.m2)
+Gram Meter/Heartbeat,g.m/{hb}
+Gram Meter,g.m
+Gi,Gb
+French Unit,[Ch]
+FTU,{FTU}
+FMS,{FMS}
+F,[degF]
+Elisa U/mL,{Elisa_U}/mL
+EU/dL,{Ehrlich_U}/dL
+EU/100 g,[EU]/(100.g)
+EU,[ETU]
+DegC,Cel
+Deg,deg
+DU,[DU]
+Cup,[cup_us]
+Copies/mL,{Copies}/mL
+Chl a,{chlorophyll_a}
+Chilean Pesos,{CLP}
+Cal,cal
+CH50 U/mL,U{ComplementCh50}/mL
+CFU,[CFU]
+C,Cel
+Bytes,By
+Byte,By
+Btu,[Btu]
+Bf,[bf_i]
+BPM,{beats}/min
+BP,{BP}
+BCE/umol Cre,eq{BoneCollagen}/umol{Cre}
+BCE/mmol Cre,eq{BoneCollagen}/mmol{Cre}
+Absorbance unit,[AU]
+API units,[API]
+API,[API]
+AHG eq/mL,eq{AHG}/mL
+AD,{AD}
+10^9/uL,10*9/uL
+10^9/mL,10*9/mL
+10^9/L,10*9/L
+10^6/uL,10*6/uL
+10^6/mL,10*6/mL
+10^6/L,10*6/L
+10^6 eq/mL,10*6.eq/mL
+10^6  IU,10*6.[iU]
+10^3/uL,10*3/uL
+10^3/mL,10*3/mL
+10^3/L,10*3/L
+10^3 copies/mL,10*3{Copies}/mL
+10^12/L,10*12/L
+10.un.s/cm5,dyn.s/cm5
+10.un.s/(cm5.m2),dyn.s/(cm5.m2)
+10.L,10.L/(min.m2)
+10*3(rbc),10*3{rbc}
+/mm^3,/uL
+/m^2,/m2
+/kg Body Weight,/kg{body`wt}
+/iu,/[iU]
+/g Wet Tissue,/g{wet`tis}
+/g Total Protein,/g{tot`prot}
+/g Total Nitrogen,/g{tot`nit}
+/g Hgb,/g{HGB}
+/g Cre,/g{creat}
+/Total,/{tot}
+/Entity,/{Entity}
+/10^9,/10*9
+/10^6,/10*6
+/10^12 RBCs,/10*12{rbc}
+/10^12,/10*12
+/10^10,/10*10
+/100 WBCs,/100{WBC}
+/100 Sperm,/100{Spermatozoa}
+/(tot),/{tot}
+/(hpf),[HPF]
+/(arb_u),/[arb'U]
+(th_u),[todd'U]
+(ppth),[ppth]
+(ppt),[pptr]
+(ppm),[ppm]
+(ppb),[ppb]
+(ph),pH
+(od),{od}
+(mclg_u),[mclg'U]
+(knk_u),[knk'U]
+(kcal)/hr,kcal/h
+(kcal)/d,kcal/d
+(kcal)/(8.hr),kcal/(8.h)
+(kcal),kcal
+(ka_u),[ka'U]
+(eq),{eq}
+(drop),[drp]
+(cfu),{cfu}
+(cal),cal
+(bsa),{bsa}
+(bdsk_u),[bdsk'U]
+(arb_u),[arb'U]
+(\\(eq\\)),{eq}
+(K2)m/W,m2.K/W
+% per 100 WBC,%/100{WBC}
+% of Total,%{Total}
+% WBCs,%{OfWBCs}
+% Uptake,%{Uptake}
+% Total Protein,%{TotalProtein}
+% Sperm Motility,%{SpermMotility}
+% Positive,%{Positive}
+% Oxygen,%{Oxygen}
+% Normal Pooled Plasma,%{NormalPooledPlasma}
+% Normal,%{Normal}
+% Lymphs,%{OfLymphocytes}
+% Inhibition,%{Inhibition}
+% Hgb SAT,%{HemoglobinSaturation}
+% Hgb A1C,%{HemoglobinA1C}
+% Hgb,%{Hemoglobin}
+% Hemolysis,%{Hemolysis}
+% Fetal RBC,%{FetalErythrocytes}
+% Excretion,%{Excretion}
+% EOS Seen,%{EosSeen}
+% CO Hgb,%{Carboxyhemoglobin}
+% Bound,%{Bound}
+% Blockade,%{Blockade}
+% Binding,%{Binding}
+% Basal Activity,%{BasalActivity}
+% Bacteria,%{ofBacteria}
+% Activity,%{Activity}
+% Abnormal,%{Abnormal}
+% 0-3 h,%{0to3Hours}
+#,n

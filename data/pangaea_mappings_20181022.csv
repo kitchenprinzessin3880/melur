@@ -1,0 +1,439 @@
+Å,Ao,pangaea
+µtorr,u[Torr],pangaea
+µg-at,n{molecule},pangaea
+µ,u,pangaea
+±,{StandardDeviation},pangaea
+°C,Cel,pangaea
+°,deg,pangaea
+yr,a,fhir
+years,a,pangaea
+year,a,pangaea
+yd^2,[syd_i],fhir
+yd3/min,[cyd_i]/min,pangaea
+yd3,[cyd_i],pangaea
+yd2,[syd_i],pangaea
+yd,[yd_i],fhir
+y,a,pangaea
+x10^8,10*8,fhir
+x10^6/spec,10*6/{Specimen},fhir
+x10^6,10*6,fhir
+x10^5,10*5,fhir
+x10^3 RBCs,10*3.{RBC},fhir
+x10^3,10*3,fhir
+weeks,wk,pangaea
+week,wk,pangaea
+vol,{v},pangaea
+utorr,m[Torr],pangaea
+umol/mol Cre,umol/mol{Cre},fhir
+umol/mg Cre,umol/mg{Cre},fhir
+umol/g Hgb,umol/g{Hgb},fhir
+umol/g Cre,umol/g{Cre},fhir
+uiu,u[iU],hl7
+ug/mg Cre,ug/mg{Cre},fhir
+ug/m^2,ug/m2,fhir
+ug/hr,ug/h,hl7
+ug/g Hgb,ug/g{Hgb},fhir
+ug/g Dry Weight,ug/g{DryWeight},fhir
+ug/g Cre,ug/g{Cre},fhir
+ug/dL RBCs,ug/dL{rbc},fhir
+ug/Total Volume,ug/{TotalVolume},fhir
+ug/Spec,ug/{Specimen},fhir
+ug/100 g,ug/(100.g),fhir
+ug/(kg.hr),ug/(kg.h),hl7
+ug/(8.hr.kg),ug/(8.h.kg),hl7
+ueg/L,ueq/L,fhir
+uIU/mL,u[iU]/mL,fhir
+uIU,u[iU],fhir
+tsp,[tsp_us],pangaea
+tr oz,[oz_tr],fhir
+torr,[Torr],pangaea
+ton/yd3,t/[cyd_i],pangaea
+ton/yd,t/[yd_i],pangaea
+ton/hr,[ston_av]/h,pangaea
+ton,t,pangaea
+time,a,pangaea
+tenths,10*-1,pangaea
+tbsp,[tbs_us],pangaea
+tablet,{tablet},pangaea
+sie,S,hl7
+seconds,s,pangaea
+second,s,pangaea
+sec,s,fhir
+ru,[arb'U],pangaea
+rmcd,m{rmcd},pangaea
+rem,REM,pangaea
+rd,[rd_us],pangaea
+quanta,{quanta},pangaea
+qt,[qt_us],fhir
+pt,[pt_us],fhir
+psi,[psi],pangaea
+protein,{protein},pangaea
+pptv,[pptr]{v},pangaea
+ppt,[pptr],pangaea
+ppmv,[ppm]{v},pangaea
+ppm,[ppm],pangaea
+ppbv,[ppb]{v},pangaea
+polyp,{polyp},pangaea
+pk,[pk_us],pangaea
+pixel,n{pixel},pangaea
+pi,[pt_br],pangaea
+photons,{photons},pangaea
+phi,[phi],pangaea
+pal,Pa,hl7
+pa,pA,hl7
+pMC,[pMC],pangaea
+pH,[pH],fhir
+ozm,[oz_av],pangaea
+oz,[oz_av],fhir
+osmol/kg,osm/kg,hl7
+osmol/L,osm/L,hl7
+osmol,osm,hl7
+ohm,Ohm ,pangaea
+oersted,Oe,pangaea
+octa,[octa],pangaea
+nmol/mmol Cre,nmol/mmol{Cre},fhir
+nmol/g Cre,nmol/g{Cre},fhir
+nmi/min,[nmi_i]/min,pangaea
+nmi/hr,[nmi_i]/h,pangaea
+ng/mg Prot,ng/mg{Protein},fhir
+ng/m^2,ng/m2,fhir
+ng/mL RBCs,ng/mL{rbc},fhir
+ng/hr,ng/h,hl7
+ng/g Cre,ng/g{Cre},fhir
+ng/(kg.hr),ng/(kg.h),hl7
+ng/(8.hr.kg),ng/(8.h.kg),hl7
+ng/(8.hr),ng/(8.h),hl7
+n-alkanes,{n-alkanes},pangaea
+n mile,[nmi_i],fhir
+months,mo,pangaea
+month,mo,pangaea
+molec,n{molecule},pangaea
+mol/m^3,mol/m3,fhir
+mmol/mol Cre,mmol/mol{Cre},fhir
+mmol/m^2,mmol/m2,fhir
+mmol/hr,mmol/h,hl7
+mmol/Total Volume,mmol/{TotalVolume},fhir
+mmol/(kg.hr),mmol/(kg.h),hl7
+mmol/(8hr),mmol/(8.h),hl7
+mmol/(8.hr.kg),mmol/(8.h.kg),hl7
+mm^2,mm2,fhir
+mmHg,mm[Hg],pangaea
+mm/hr,mm/h,hl7
+mm(hg),mm[Hg],hl7
+mm Hg,mm[Hg],fhir
+miu/mL,m[iU]/mL,hl7
+milliH,mH,pangaea
+mil,[mi_us],pangaea
+microsec,us,pangaea
+microH,uH,pangaea
+microF, uF,pangaea
+mi/min,[mi_i]/min,pangaea
+mi,[mi_i],fhir
+mg/mg Cre,mg/mg{Cre},fhir
+mg/m^3,mg/m3,fhir
+mg/m^2,mg/m2,fhir
+mg/hr,mg/h,hl7
+mg/g Cre,mg/g{Cre},fhir
+mg/Volume,mg/{Volume},fhir
+mg/Total Volume,mg/{TotalVolume},fhir
+mg/(kg.hr),mg/(kg.h),hl7
+mg/(8.hr.kg),mg/(8.h.kg),hl7
+mg/(8.hr),mg/(8.h),hl7
+mg Phe/dL,mg{Phenylketones}/dL,fhir
+mg CO2,mg{CO2},pangaea
+meq/hr,meq/h,hl7
+meq/g Cre,meq/g{Cre},fhir
+meq/Spec,meq/{Specimen},fhir
+meq/(kg.hr),meq/(kg.h),hl7
+meq/(8.hr.kg),meq/(8.h.kg),hl7
+meq/(8.hr),meq/(8.h),hl7
+meg/m^2,meq/m2,fhir
+meg/dL,meq/dL,fhir
+meg/L,meq/L,fhir
+mbps,Mbit/s,pangaea
+mas,Ms,hl7
+m^2,m2,fhir
+mU/mg Cre,mU/mg{Cre},fhir
+mU/g Hgb,mU/g{Hgb},fhir
+mOsm/kg,mosm/kg,fhir
+mOsm/L,mosm/L,fhir
+mL/hr,mL/h,hl7
+mL/heart beat,mL/{h`b},fhir
+mL/cm_h20,mL/cm[H2O],hl7
+mL/(kg.hr),mL/(kg.h),hl7
+mL/(hb),mL/{hb},hl7
+mL/(8.hr.kg),mL/(8.h.kg),hl7
+mL/(8.hr),mL/(8.h),hl7
+mL/((hb).m2),mL/{hb}.m2,hl7
+mIU/mL,m[iU]/mL,fhir
+mIU/L,m[iU]/L,fhir
+mEq/L,meq/L,fhir
+m/s,ms/s,hl7
+ly, [ly],pangaea
+lux,lx,pangaea
+lbm/m3,[lb_av]/m3,pangaea
+lbm,[lb_av],pangaea
+lbf,[lbf_av],pangaea
+lb/min,[lb_av]/min,pangaea
+lb,[lb_av],fhir
+kh/h,kg/h,hl7
+kg/ms,kg/m2,hl7
+kg/m^3,kg/m3,fhir
+kg/m^2,kg/m2,fhir
+kg(body_wt),kg{body_wt},hl7
+kcal/gm,kcal/g,pangaea
+kcal/(gm.degC),kcal/(g.Cel),pangaea
+kbps,kbit/s ,pangaea
+kIU/mL,k[iU]/mL,fhir
+kCal/oz,kcal/[oz_av],fhir
+k/watt,K/W,hl7
+iu/min,[iU]/min,hl7
+iu/mL,[iU]/mL,hl7
+iu/kg,[iU]/kg,hl7
+iu/hr,[iU]/h,hl7
+iu/d,[iU]/d,hl7
+iu/L,[iU]/L,hl7
+iu,[iU],hl7
+ions,{ions},pangaea
+inch,[in_i],pangaea
+in_hg,[in_i'Hg],hl7
+in^3,[cin_i],fhir
+in^2,[sin_i],fhir
+inHg,[in_i'Hg],pangaea
+inAq,[in_i'H2O],pangaea
+in3/min,[cin_i]/min,pangaea
+in3,[cin_i],pangaea
+in2,[sin_i],pangaea
+in,[in_i],fhir
+hr,h,pangaea
+hp/m,[HP]{metric},pangaea
+hp/V,[HP]{electric},pangaea
+hp/H2O,[HP]{water},pangaea
+hours,h,pangaea
+hour,h,pangaea
+grad,gon,pangaea
+gr,[gr],fhir
+gal/min,[gal_us]/min,pangaea
+gal,[gal_us],fhir
+gAPI,[API],pangaea
+g/m^2,g/m2,fhir
+g/hr,g/h,hl7
+g/g Cre,g/g{Cre},fhir
+g/Total Weight,g/{TotalWeight},fhir
+g/100g,g/(100.g),fhir
+g/(kg.hr),g/(kg.h),hl7
+g/(8.kg.hr),g/(8.kg.h),hl7
+g/(8.hr),g/(8.h),hl7
+g.m/(hb),g.m/{hb},hl7
+g.m/((hb).m2),g.m/m2{hb},hl7
+g(wet_tis),g{wet_tis},hl7
+g(tot_prot),g{tot_prot},hl7
+g(tot_nit),g{tit_nit},hl7
+g(hgb),g{hgb},hl7
+g(creat),g{creat},hl7
+fur,[fur_us],pangaea
+ft^2,[sft_i],fhir
+ft3,[cft_i],pangaea
+ft2,[sft_i],pangaea
+ft,[ft_i],fhir
+fps,{frames}/s,pangaea
+fmol/gm,fmol/g,fhir
+fl oz,[foz_us],fhir
+fl dr,[fdr_us],fhir
+field,{field},pangaea
+female,n{female},pangaea
+feet,[ft_i],pangaea
+fathom,[fth_i],fhir
+fath,[fth_i],pangaea
+emu,[emu],pangaea
+electrons,{electron},pangaea
+electron,{electron},pangaea
+eg/L,eq/L,fhir
+dwt,[pwt_tr],pangaea
+dry_qt,[qt_us]{dry},pangaea
+dry_pt,[pt_us]{dry},pangaea
+dry_gal,[gal_us]{dry},pangaea
+dry weight %,%{drymass},pangaea
+dr,[dr_av],fhir
+dpm,[dpm],pangaea
+dm2/s2,REM,hl7
+degR,[degR],pangaea
+degF,[degF],pangaea
+degC,Cel,pangaea
+dba,dB[SPL],hl7
+days,d,pangaea
+day,d,pangaea
+d2Theta,deg,pangaea
+cup,[cup_us],pangaea
+cts,n{photon},pangaea
+crmcd,m{crmcd},pangaea
+cps,[cps],pangaea
+cpm,[cpm],pangaea
+counts/min,[cpm],pangaea
+count/min,[cpm],pangaea
+code,{code},pangaea
+cmil,[cml_i],pangaea
+cm_h20/(s.m),cm[H2O]/(s.m),hl7
+cm_h20.s/L,cm[H2O].s/L,hl7
+cm_h20,cm[H2O],hl7
+cm^2,cm2,fhir
+ch,[ch_us],pangaea
+cfu/mL,{cfu}/mL,fhir
+cells/uL,{Cells}/uL,fhir
+cc/dL,mL/dL,fhir
+bu,[bu_us],pangaea
+btu,[Btu],pangaea
+breaths/min,{breaths}/min,pangaea
+bps,bit/s,pangaea
+bpm,{beat}/min,pangaea
+bp,[bp],pangaea
+bbl,[bbl_us],pangaea
+b2k,{b2k},pangaea
+atoms,n{atoms},pangaea
+atm,{atmosphere},pangaea
+armcd,m{armcd},pangaea
+arcSec,'',pangaea
+arcMin,',pangaea
+arbitrary units,[arb'U],pangaea
+arbitrary light units,[arb'U],pangaea
+amcd,m{amcd},pangaea
+ambsf,m{ambsf},pangaea
+ac,[acr_us],pangaea
+Volume %,%{vol},fhir
+U/g Hgb,U/g{Hgb},fhir
+U/g Cre,U/g{Cre},fhir
+Ton,[ston_av],fhir
+Sperm/mL,{Spermatozoa}/mL,fhir
+Relative %,%{Relative},fhir
+RBC/mm^3,{rbc}/uL,fhir
+Osm/kg,osm/kg,fhir
+Osm/L,osm/L,fhir
+Nm/ct,[car_m],pangaea
+Mo,mo,fhir
+Metric Ton,t,fhir
+MT,{MT},pangaea
+"M/uL, x10^6/mm^3",10*6/uL,fhir
+L/hr,L/h,hl7
+L/(8.hr),L/(8.h),hl7
+L s^2/s,L.s2/s,fhir
+KPa,kPa,pangaea
+KHz,kHz,pangaea
+"K/uL, x10^3/mm^3",10*3/uL,fhir
+K/Watt,K/W,fhir
+IgM Phospholipid U/mL,U{IgMPhospholipid}/mL,fhir
+IgG Phospholipid U/mL,U{IgGPhospholipid}/mL,fhir
+IgA Phospholipid U/mL,U{IgAPhospholipid}/mL,fhir
+IU/mL,[iU]/mL,fhir
+IU/kg,[iU]/kg,fhir
+IU/g Hgb,[iU]/g{Hgb},fhir
+IU/g,[iU]/g,fhir
+IU/dL,[iU]/dL,fhir
+IU/L,[iU]/L,fhir
+IU,[iU],fhir
+HP,[HP],pangaea
+HC,{hydrocarbon},pangaea
+H2O,{H2O},pangaea
+Gram Meter/Heartbeat/m^2,g.m/({hb}.m2),fhir
+Gram Meter/Heartbeat,g.m/{hb},fhir
+Gram Meter,g.m,fhir
+Gi,Gb,pangaea
+French Unit,[Ch],fhir
+FTU,{FTU},pangaea
+FMS,{FMS},pangaea
+F,[degF],fhir
+Elisa U/mL,{Elisa_U}/mL,fhir
+EU/dL,{Ehrlich_U}/dL,fhir
+EU/100 g,[EU]/(100.g),fhir
+EU,[ETU],pangaea
+DegC,Cel,pangaea
+Deg,deg,fhir
+DU,[DU],pangaea
+Cup,[cup_us],fhir
+Copies/mL,{Copies}/mL,fhir
+Chl a,{chlorophyll_a},pangaea
+Chilean Pesos,{CLP},pangaea
+Cal,cal,pangaea
+CH50 U/mL,U{ComplementCh50}/mL,fhir
+CFU,[CFU],pangaea
+Bytes,By,pangaea
+Byte,By,pangaea
+Btu,[Btu],pangaea
+Bf,[bf_i],pangaea
+BPM,{beats}/min,pangaea
+BP,{BP},pangaea
+BCE/umol Cre,eq{BoneCollagen}/umol{Cre},fhir
+BCE/mmol Cre,eq{BoneCollagen}/mmol{Cre},fhir
+Absorbance unit,[AU],pangaea
+API units,[API],pangaea
+API,[API],pangaea
+AHG eq/mL,eq{AHG}/mL,fhir
+AD,{AD},pangaea
+10^9/uL,10*9/uL,fhir
+10^9/mL,10*9/mL,fhir
+10^9/L,10*9/L,fhir
+10^6/uL,10*6/uL,fhir
+10^6/mL,10*6/mL,fhir
+10^6/L,10*6/L,fhir
+10^6 eq/mL,10*6.eq/mL,fhir
+10^6  IU,10*6.[iU],fhir
+10^3/uL,10*3/uL,fhir
+10^3/mL,10*3/mL,fhir
+10^3/L,10*3/L,fhir
+10^3 copies/mL,10*3{Copies}/mL,fhir
+10^12/L,10*12/L,fhir
+10.un.s/cm5,dyn.s/cm5,hl7
+10.un.s/(cm5.m2),dyn.s/(cm5.m2),hl7
+10.L,10.L/(min.m2),hl7
+10*3(rbc),10*3{rbc},hl7
+(th_u),[todd'U],hl7
+(ppth),[ppth],hl7
+(ppt),[pptr],hl7
+(ppm),[ppm],hl7
+(ppb),[ppb],hl7
+(ph),pH,hl7
+(od),{od},hl7
+(mclg_u),[mclg'U],hl7
+(knk_u),[knk'U],hl7
+(kcal)/hr,kcal/h,hl7
+(kcal)/d,kcal/d,hl7
+(kcal)/(8.hr),kcal/(8.h),hl7
+(kcal),kcal,hl7
+(ka_u),[ka'U],hl7
+(eq),{eq},pangaea
+(drop),[drp],hl7
+(cfu),{cfu},hl7
+(cal),cal,hl7
+(bsa),{bsa},hl7
+(bdsk_u),[bdsk'U],hl7
+(arb_u),[arb'U],hl7
+(\\(eq\\)),{eq},pangaea
+(K2)m/W,m2.K/W,pangaea
+% per 100 WBC,%/100{WBC},fhir
+% of Total,%{Total},fhir
+% WBCs,%{OfWBCs},fhir
+% Uptake,%{Uptake},fhir
+% Total Protein,%{TotalProtein},fhir
+% Sperm Motility,%{SpermMotility},fhir
+% Positive,%{Positive},fhir
+% Oxygen,%{Oxygen},fhir
+% Normal Pooled Plasma,%{NormalPooledPlasma},fhir
+% Normal,%{Normal},fhir
+% Lymphs,%{OfLymphocytes},fhir
+% Inhibition,%{Inhibition},fhir
+% Hgb SAT,%{HemoglobinSaturation},fhir
+% Hgb A1C,%{HemoglobinA1C},fhir
+% Hgb,%{Hemoglobin},fhir
+% Hemolysis,%{Hemolysis},fhir
+% Fetal RBC,%{FetalErythrocytes},fhir
+% Excretion,%{Excretion},fhir
+% EOS Seen,%{EosSeen},fhir
+% CO Hgb,%{Carboxyhemoglobin},fhir
+% Bound,%{Bound},fhir
+% Blockade,%{Blockade},fhir
+% Binding,%{Binding},fhir
+% Basal Activity,%{BasalActivity},fhir
+% Bacteria,%{ofBacteria},fhir
+% Activity,%{Activity},fhir
+% Abnormal,%{Abnormal},fhir
+% 0-3 h,%{0to3Hours},fhir
+#,n,pangaea

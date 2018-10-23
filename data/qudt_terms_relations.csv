@@ -1,0 +1,235 @@
+Term	Relation Type	Term.1
+Angular Acceleration	has broader term	Acceleration
+Linear Acceleration	has broader term	Acceleration
+Serum or Plasma Level	has broader term	Amount of Substance Per Unit Volume
+Plane Angle	has broader term	Angle
+Solid Angle	has broader term	Angle
+Vorticity	has broader term	Angular Velocity
+Thermal Diffusivity	has broader term	Area per Time
+Kinematic Viscosity	has broader term	Area per Time
+Circulation	has broader term	Area per Time
+Currency	has broader term	Asset
+Amount of Substance Per Unit Volume	has broader term	Concentration
+Amount of substance per unit mass	has broader term	Concentration
+Absolute Humidity	has broader term	Density
+Dimensionless Ratio	has broader term	Dimensionless
+Strain	has broader term	Dimensionless
+Mach Number	has broader term	Dimensionless Ratio
+Reynolds Number	has broader term	Dimensionless Ratio
+Heat Capacity Ratio	has broader term	Dimensionless Ratio
+Mole Fraction	has broader term	Dimensionless Ratio
+Angle	has broader term	Dimensionless Ratio
+Gain	has broader term	Dimensionless Ratio
+Compressibility Factor	has broader term	Dimensionless Ratio
+Thermal Efficiency	has broader term	Dimensionless Ratio
+Exposure	has broader term	Electric Charge per Mass
+Gyromagnetic Ratio	has broader term	Electric Charge per Mass
+Electric Displacement Field	has broader term	Electric Charge per Unit Area
+Polarization Field	has broader term	Electric Charge per Unit Area
+Magnetization Field	has broader term	Electric Current per Unit Length
+Auxillary Magnetic Field	has broader term	Electric Current per Unit Length
+Signal Strength	has broader term	Electric Field
+Strain Energy Density	has broader term	Energy Density
+Enthalpy	has broader term	Energy and Work
+Internal Energy	has broader term	Energy and Work
+Radiant Energy	has broader term	Energy and Work
+Potential Energy	has broader term	Energy and Work
+Kinetic Energy	has broader term	Energy and Work
+Thermal Energy	has broader term	Energy and Work
+Electromotive Force	has broader term	Energy per Electric Charge
+Electric Potential	has broader term	Energy per Electric Charge
+Thermodynamic Entropy	has broader term	Energy per Temperature
+Heat Capacity	has broader term	Energy per Temperature
+Friction	has broader term	Force
+Thrust	has broader term	Force
+Tension	has broader term	Force Magnitude
+Pressure	has broader term	Force Per Area
+Stress	has broader term	Force Per Area
+Stochastic Process	has broader term	Frequency
+Angular Frequency	has broader term	Frequency
+Number Density	has broader term	Inverse Volume
+Specific Impulse by Mass	has broader term	Linear Velocity
+Luminous Emmitance	has broader term	Luminous Flux per Area
+Illuminance	has broader term	Luminous Flux per Area
+Molecular Mass	has broader term	Mass
+Angular Momentum	has broader term	Momentum
+Linear Momentum	has broader term	Momentum
+Heat Flow Rate	has broader term	Power
+Electric Power	has broader term	Power
+Radiant Flux	has broader term	Power
+Heat Flow Rate per Unit Area	has broader term	Power per Area
+Radiant Emmitance	has broader term	Power per Area
+Irradiance	has broader term	Power per Area
+Radiosity	has broader term	Power per Area
+Radiance	has broader term	Power per Area Angle
+Total Pressure	has broader term	Pressure
+Dynamic Pressure	has broader term	Pressure
+Atmospheric Pressure	has broader term	Pressure
+Static Pressure	has broader term	Pressure
+RF-Power	has broader term	Signal Strength
+Dose Equivalent	has broader term	Specific Energy
+Absorbed Dose	has broader term	Specific Energy
+Activity	has broader term	Stochastic Process
+Heat	has broader term	Thermal Energy
+Specific Impulse by Weight	has broader term	Time
+Linear Velocity	has broader term	Velocity
+Angular Velocity	has broader term	Velocity
+Dynamic Viscosity	has broader term	Viscosity
+Molecular Viscosity	has broader term	Viscosity
+Liquid Volume	has broader term	Volume
+Dry Volume	has broader term	Volume
+First Moment of Area	has broader term	Volume
+Magnetomotive Force	has broader term	Quantity Kind
+Power Area per Solid Angle	has broader term	Quantity Kind
+Linear Thermal Expansion	has broader term	Quantity Kind
+Linear Energy Transfer	has broader term	Quantity Kind
+Area	has broader term	Quantity Kind
+Magnetic Dipole Moment	has broader term	Quantity Kind
+Force Per Area	has broader term	Quantity Kind
+Thermal Insulance	has broader term	Quantity Kind
+Torque	has broader term	Quantity Kind
+Area Temperature	has broader term	Quantity Kind
+Length per Unit Magnetic Flux	has broader term	Quantity Kind
+Area Time	has broader term	Quantity Kind
+Specific Volume	has broader term	Quantity Kind
+Electric Charge per Mass	has broader term	Quantity Kind
+Molar Energy	has broader term	Quantity Kind
+Weight	has broader term	Quantity Kind
+Force per Electric Charge	has broader term	Quantity Kind
+Electric Charge	has broader term	Quantity Kind
+Energy and Work per Mass Amount of Substance	has broader term	Quantity Kind
+Resistance	has broader term	Quantity Kind
+Thermal Energy Length	has broader term	Quantity Kind
+Specific Heat Capacity	has broader term	Quantity Kind
+Viscosity	has broader term	Quantity Kind
+Specific Heat Volume	has broader term	Quantity Kind
+Time	has broader term	Quantity Kind
+Permeability	has broader term	Quantity Kind
+Electric Charge Volume Density	has broader term	Quantity Kind
+Electric Current per Unit Length	has broader term	Quantity Kind
+Force	has broader term	Quantity Kind
+Coefficient of Heat Transfer	has broader term	Quantity Kind
+Length Force	has broader term	Quantity Kind
+Energy and Work	has broader term	Quantity Kind
+Molar Heat Capacity	has broader term	Quantity Kind
+Electric Flux	has broader term	Quantity Kind
+Momentum	has broader term	Quantity Kind
+Force per Unit Length	has broader term	Quantity Kind
+Electric Quadrupole Moment	has broader term	Quantity Kind
+Molar Volume	has broader term	Quantity Kind
+Area Angle	has broader term	Quantity Kind
+Inverse Length Temperature	has broader term	Quantity Kind
+Capacitance	has broader term	Quantity Kind
+Temperature per Time	has broader term	Quantity Kind
+Energy per Temperature	has broader term	Quantity Kind
+Energy per Square Magnetic Flux Density	has broader term	Quantity Kind
+Specific Energy	has broader term	Quantity Kind
+Curvature	has broader term	Quantity Kind
+Asset	has broader term	Quantity Kind
+Density	has broader term	Quantity Kind
+Capacity	has broader term	Quantity Kind
+Electric Current Density	has broader term	Quantity Kind
+Absorbed Dose Rate	has broader term	Quantity Kind
+Thrust to Mass Ratio	has broader term	Quantity Kind
+Mass per Length	has broader term	Quantity Kind
+Thermal Conductivity	has broader term	Quantity Kind
+Volume Thermal Expansion	has broader term	Quantity Kind
+Microbial Formation	has broader term	Quantity Kind
+Electric Charge Line Density	has broader term	Quantity Kind
+Volume	has broader term	Quantity Kind
+Electric Charge per Amount of Substance	has broader term	Quantity Kind
+Length Temperature	has broader term	Quantity Kind
+Area Thermal Expansion	has broader term	Quantity Kind
+Cubic Electric Dipole Moment per Square Energy	has broader term	Quantity Kind
+Luminous Efficacy	has broader term	Quantity Kind
+Square Energy	has broader term	Quantity Kind
+Mass per Electric Charge	has broader term	Quantity Kind
+Power per Area Angle	has broader term	Quantity Kind
+Acceleration	has broader term	Quantity Kind
+Force Magnitude	has broader term	Quantity Kind
+Electric Current per Unit Energy	has broader term	Quantity Kind
+Energy Density	has broader term	Quantity Kind
+Length per Unit Electric Current	has broader term	Quantity Kind
+Mass per Area Time	has broader term	Quantity Kind
+Signal Detection Threshold	has broader term	Quantity Kind
+Inductance	has broader term	Quantity Kind
+Temperature Amount of Substance	has broader term	Quantity Kind
+Polar moment of inertia	has broader term	Quantity Kind
+Molar Mass	has broader term	Quantity Kind
+Inverse Square Energy	has broader term	Quantity Kind
+Electric Dipole Moment	has broader term	Quantity Kind
+Frequency	has broader term	Quantity Kind
+Temperature	has broader term	Quantity Kind
+Length	has broader term	Quantity Kind
+Dimensionless	has broader term	Quantity Kind
+Luminance	has broader term	Quantity Kind
+Atomic Charge	has broader term	Quantity Kind
+Electric Current	has broader term	Quantity Kind
+Magnetic Field	has broader term	Quantity Kind
+Power per Electric Charge	has broader term	Quantity Kind
+Mass per Area	has broader term	Quantity Kind
+Turbidity	has broader term	Quantity Kind
+Catalytic Activity	has broader term	Quantity Kind
+Length Temperature Time	has broader term	Quantity Kind
+Length Energy	has broader term	Quantity Kind
+Data Rate	has broader term	Quantity Kind
+Area per Time	has broader term	Quantity Kind
+Action	has broader term	Quantity Kind
+Power Area	has broader term	Quantity Kind
+Electric Current per Angle	has broader term	Quantity Kind
+Mass Amount of Substance Temperature	has broader term	Quantity Kind
+Magnetic Flux	has broader term	Quantity Kind
+Amount of Substance	has broader term	Quantity Kind
+Temperature per Magnetic Flux Density	has broader term	Quantity Kind
+Standard Gravitational Parameter	has broader term	Quantity Kind
+Thermal Resistance	has broader term	Quantity Kind
+Inverse Volume	has broader term	Quantity Kind
+Inverse Time Temperature	has broader term	Quantity Kind
+Magnetic Flux per Unit Length	has broader term	Quantity Kind
+Gravitational Attraction	has broader term	Quantity Kind
+Velocity	has broader term	Quantity Kind
+Speed	has broader term	Quantity Kind
+Luminous Flux	has broader term	Quantity Kind
+Mass per Time	has broader term	Quantity Kind
+Energy per Electric Charge	has broader term	Quantity Kind
+Mass Temperature	has broader term	Quantity Kind
+Mass Amount of Substance	has broader term	Quantity Kind
+Volumetric Heat Capacity	has broader term	Quantity Kind
+Inverse Amount of Substance	has broader term	Quantity Kind
+Information Entropy	has broader term	Quantity Kind
+Luminous Energy	has broader term	Quantity Kind
+Power per Area Quartic Temperature	has broader term	Quantity Kind
+Second Moment of Area	has broader term	Quantity Kind
+Area Time Temperature	has broader term	Quantity Kind
+Time Squared	has broader term	Quantity Kind
+Electric Charge per Unit Area	has broader term	Quantity Kind
+Molar Angular Momentum	has broader term	Quantity Kind
+Inverse Length	has broader term	Quantity Kind
+Moment of Inertia	has broader term	Quantity Kind
+Length Mass	has broader term	Quantity Kind
+Electric Field	has broader term	Quantity Kind
+Mass	has broader term	Quantity Kind
+Inverse Magnetic Flux	has broader term	Quantity Kind
+Inverse Permittivity	has broader term	Quantity Kind
+Time Temperature	has broader term	Quantity Kind
+Polarizability	has broader term	Quantity Kind
+Specific Heat Pressure	has broader term	Quantity Kind
+Inverse Energy	has broader term	Quantity Kind
+Luminous Flux per Area	has broader term	Quantity Kind
+Power	has broader term	Quantity Kind
+Energy per Area	has broader term	Quantity Kind
+Heart Rate	has broader term	Quantity Kind
+Energy per Area Electric Charge	has broader term	Quantity Kind
+Permittivity	has broader term	Quantity Kind
+Power per Area	has broader term	Quantity Kind
+Radiant Intensity	has broader term	Quantity Kind
+Quartic Electric Dipole Moment per Cubic Energy	has broader term	Quantity Kind
+Luminous Intensity	has broader term	Quantity Kind
+Force Per Area Time	has broader term	Quantity Kind
+Thermal Resistivity	has broader term	Quantity Kind
+Respiratory Rate	has broader term	Quantity Kind
+Length Molar Energy	has broader term	Quantity Kind
+Video Frame Rate	has broader term	Quantity Kind
+Concentration	has broader term	Quantity Kind
+Electric Conductivity	has broader term	Quantity Kind
+Volume per Unit Time	has broader term	Quantity Kind

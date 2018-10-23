@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ascii"?>
+<quantities>
+<quantity source="pan">	<name>Abundance per Length/Frequency</name>	<unit>n/m</unit>	<dimension>L-1.Z</dimension></quantity>
+<quantity source="pan">	<name>Individual Density</name>	<unit>n/m2</unit>	<dimension>L-2.Z</dimension>	</quantity>
+<quantity source="pan">	<name>Abundance per Volume</name>	<unit>n/m3</unit>	<dimension>L-3.Z</dimension>	</quantity>
+<quantity source="pan">	<name>Abundance per Mass</name>	<unit>n/g</unit>	<dimension>M-1.Z</dimension>	</quantity>
+<quantity source="pan">	<name>Abundance or Count</name>	<unit>n</unit>	<dimension>Z</dimension>	</quantity>
+<quantity source="pan">	<name>Accumulation Rate/Flux</name>	<unit>n/m2/s</unit>	<dimension>L-2.Z.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Mass Accumulation Rate/Flux</name>	<unit>g/m2/s</unit>	<dimension>M.L-2.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Accumulation Rate</name>	<unit>n/g/s</unit>	<dimension>M-1.Z.T-1</dimension>	</quantity>
+
+<quantity source="pan">	<name>Molar Flux</name>	<unit>mol/m2/s</unit>	<dimension>L-2.N.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Molar Concentration</name>	<unit>mol/m3</unit>	<dimension>L-3.N</dimension>	</quantity>
+<quantity source="pan">	<name>Molar Concentration</name>	<unit>mol/kg</unit>	<dimension>M-1.N</dimension>	</quantity>
+
+<quantity source="pan">	<name>Accumulation Rate</name>	<unit>n/m3/s</unit>	<dimension>L-3.Z.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Reaction Rate</name>	<unit>mol/m3/s</unit>	<dimension>L-3.N.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Specific Activity</name>	<unit>mol/g/s</unit>	<dimension>M-1.N.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Molar Fraction Gradient</name>	<unit>mol/m</unit>	<dimension>L-1.N</dimension>	</quantity>
+
+<quantity source="pan">	<name>Frequency</name>	<unit>n/s</unit>	<dimension>Z.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Fraction</name>	<unit>%/n</unit>	<dimension>Z-1</dimension>	</quantity>
+<quantity source="pan">	<name>Fraction</name>	<unit>n/n</unit></quantity>
+<quantity source="pan">	<name>Specific Electrical Resistance</name>	<unit>Ohm.m</unit>	<dimension>I-2.M.L3.T-1</dimension>	</quantity>
+<quantity source="pan">	<name>Time per Length</name><unit>s/m</unit>	<dimension>L-1.T</dimension>	</quantity>
+<quantity source="pan">	<name>Pressure Gradient</name>	<unit>Pa/m</unit>	</quantity>
+<quantity source="pan">	<name>Transit Time</name>	<unit>us/[ft_i]</unit>	</quantity>
+
+
+<quantity source="pan">	<name>Absorption Coefficient</name>	<unit>1/m</unit>	<dimension>L-1</dimension>	</quantity>
+<quantity source="pan">	<name>Concentration</name>	<unit>1/m3</unit>	<dimension>L-3</dimension>	</quantity>
+<quantity source="pan">	<name>Specific Volume</name>	<unit>g-1.m3</unit>	<dimension>M-1.L3</dimension>	</quantity>
+</quantities>

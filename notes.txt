@@ -1,0 +1,16 @@
+Notebooks
+
+1. Format 4D Import File 
+- create the qudt term & relation import files for 4d
+-- input: ImportedQUDT.xlsx
+-- output: qudt_terms.csv, qudt_terms_relations.csv
+
+2. Pangaea PUCUM Mapping File (pangaea_mappings.csv)
+- Combine all units and translate them into ucum units 
+-- input: pangaea_mappings_original.csv, IsoToUcum.xlsx, concepts.tsv
+-- output: pangaea_mappings_<date>.csv (used by pucum service as a mapping table {unit, ucum})
+
+3. QUDT Pucum Dimension Units Json File
+- Combine pangea specific quantites and qudt quantities (incl. dimensions and units)
+-- input: quantities_pangaea.xml (from r.huber), QUDT_QuantityDimUnit.xlsx (from sparql)
+-- output: quantities_<date>.json (used by the pucum service to infer quantities {Quantity,DimensionFormatted,Ucum,Source})
